@@ -1,15 +1,14 @@
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install or yarn install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081
 npm start
 
 **首页登录和未登录：**
-![首页登录和未登录](./screen/home1.png)(screen/home.png)
+![首页登录和未登录](screen/home1.png)(screen/home.png)
 
 **搜索页面：**
 ![搜索页面](screen/search.png)
