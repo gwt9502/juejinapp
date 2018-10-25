@@ -8,7 +8,7 @@ npm install or yarn install
 npm start
 
 **首页登录和未登录：**  
-![首页登录和未登录](screen/home1.png)
+![首页登录和未登录](screen/home1.png)  
 ![首页登录和未登录](screen/home.png)
 
 **搜索页面：**  
@@ -18,7 +18,7 @@ npm start
 ![小册页面](screen/xc.png)
 
 **我的页面登录和未登陆：**  
-![我的页面登录和未登陆](screen/mylogin.png)
+![我的页面登录和未登陆](screen/mylogin.png)  
 ![我的页面登录和未登陆](screen/my.png)
 
 **标签页面：**  
