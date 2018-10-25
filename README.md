@@ -9,7 +9,7 @@ npm install or yarn install
 npm start
 
 **首页登录和未登录：**
-![首页登录和未登录](screen/home1.png)(screen/home.png)
+![首页登录和未登录](./screen/home1.png)(screen/home.png)
 
 **搜索页面：**
 ![搜索页面](screen/search.png)
