@@ -21,9 +21,10 @@ npm start
 ![我的页面登录和未登陆](screen/mylogin.png)
 ![我的页面登录和未登陆](screen/my.png)
 
-**标签页面：**
+**标签页面：**  
 ![我的页面登录和未登陆](screen/bq.png)
-.
+
+```bash
 ├── App.js
 ├── App.test.js
 ├── README.md
